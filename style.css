@@ -1,0 +1,50 @@
+body{
+    background-color: #9F9F9F;
+}
+header img{
+    width: 51px;
+}
+header nav a img{
+    width: 40px;
+}
+main .top-player img{
+    width: 56px;
+}
+main{
+    max-width: 870px;
+}
+header{
+    background-color: #562EFF;
+}
+hr{
+    width: 807px;
+    border: 1px solid #D1D1D1;
+}
+.top-blog img{
+    width: 177px;
+    height: 117px;
+}
+.star{
+    width: 12.39px;
+    height: 11.81px;
+}
+
+.time{
+    background-color: #FFE4E8;
+    border-radius: 14.6913px;
+    width: max-content;
+}
+.clock{
+    width: 20.03px; 
+    height: 20.03px;
+}
+.hr{
+    font-family: sans-serif;
+    font-style: normal;
+    font-size: 14.69px;
+    font-weight: 600;
+    line-height: 20px;
+    color: #FF4A60;
+    padding: 0;
+    margin: 0;
+}
