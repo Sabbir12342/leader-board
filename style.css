@@ -13,6 +13,9 @@ main .top-player img{
 main{
     max-width: 870px;
 }
+header nav{
+    max-width: 870px;
+}
 header{
     background-color: #562EFF;
 }
